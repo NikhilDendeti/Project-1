@@ -1,0 +1,546 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-container {
+    background-color: #000a1a;
+    background-size: cover;
+    height: 110vh;
+}
+
+.dpp-1 {
+    color: #3385ff;
+    font-weight: bold;
+}
+
+.top-1 {
+    padding: 30px;
+    margin-bottom: -60px;
+}
+
+.nxtwavepic {
+    padding: 2px;
+    height: 80px;
+    width: 80px;
+}
+
+.nxtwavepic-1 {
+    padding: 2px;
+    height: 80px;
+    width: 80px;
+    margin-left: -30px;
+}
+
+.nxtwavepic-2 {
+    padding: 2px;
+    height: 80px;
+    width: 80px;
+    margin-left: -30px;
+}
+
+.mainheading {
+    color: white;
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.first-img {
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+    margin-top: 100px;
+    margin-left: 90px;
+}
+
+.pad-1 {
+    padding: 20px;
+}
+
+.pad-2 {
+    padding: 50px;
+}
+
+.second-heading {
+    margin-top: 30px;
+    padding: 5px;
+}
+
+.h-down {
+    color: #f8fafc;
+    width: 400px;
+    font-size: 18px;
+
+}
+
+.hh-down {
+    color: #60a5fa;
+    font-weight: bold
+}
+
+.pp {
+    color: white;
+    font-family: Roboto;
+}
+
+.first-button {
+    padding: 15px;
+    border-radius: 10px;
+    margin: 10px;
+    font-family: Roboto;
+}
+
+.second-button {
+    padding: 15px;
+    border-radius: 10px;
+    margin: 10px;
+    font-family: Roboto;
+    border-color: black;
+    border-width: 2px;
+    color: #476b6b;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.page-2bg {
+    background-color: black;
+    height: 100vh;
+    background-size: cover;
+}
+
+.page-2-heading {
+    color: white;
+    font-family: Roboto;
+    padding: 20px;
+
+}
+
+.p1 {
+    color: white;
+    padding: 20px;
+    margin-top: -20px;
+}
+
+.p1-1 {
+    color: white;
+
+}
+
+.pics {
+    background-color: #293d3d;
+    height: 250px;
+    width: 200px;
+    border-radius: 20px;
+    text-align: center;
+    margin: 10px;
+}
+
+.dimensions {
+    height: 150px;
+    width: 150px;
+}
+
+
+.butt {
+    margin: 16px;
+    border-radius: 10px;
+}
+
+
+.page-3 {
+    background-color: #000d33;
+    height: 180vh;
+    background-size: cover;
+}
+
+.but-student {
+    background-color: #1aff1a;
+    border-radius: 20px;
+    border-width: 0px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+}
+
+.p3h1 {
+    color: white;
+    font-family: Roboto;
+}
+
+.card-3 {
+    background-color: #1e293b;
+    border-radius: 16px;
+    background-size: cover;
+    font-size: 14px;
+    width: 389px;
+    height: 172px;
+    margin: 30px;
+    padding: 20px;
+    border: 1px solid#334155
+}
+
+.imgg-1 {
+    width: 96px;
+    height: 96px;
+    margin-top: -72px;
+}
+
+.but-tribe {
+    font-family: Inter, sans-serif;
+    border-radius: 8px;
+    margin-left: 28px;
+}
+
+.page-4 {
+    background-color: #070a13;
+    padding-top: 96px;
+    padding-bottom: 96px;
+    height: 120vh;
+}
+
+.but-mas {
+    width: 145px;
+    height: 29px;
+    background-color: #a3e635;
+    border-radius: 16px;
+    margin-bottom: 4px;
+    margin-bottom: 20px;
+}
+
+.head-deep {
+    color: #fff;
+    font-size: 48px;
+    font-weight: 600;
+    font-family: sofia-pro, sans-serif;
+}
+
+.cddd {
+    background-color: #1e293b;
+    height: 170px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 20px;
+    width: 265px;
+}
+
+.pii {
+    width: 20px;
+    margin-right: 12px
+}
+
+.gowtam {
+    width: 265px;
+    height: 165px;
+}
+
+.pii {
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+}
+
+.pad-1 {
+    margin: 10px;
+}
+
+.d11 {
+    height: 20px;
+    width: 20px;
+}
+
+.card-container {
+    border-radius: 15px;
+    height: 300px;
+    width: 250px;
+    margin: 20px;
+}
+
+.card-image {
+    height: 125px;
+    width: 255px;
+}
+
+.card {
+    color: #ffffff;
+    background-color: #1e293b;
+    border-radius: 0px;
+    height: 150px;
+    width: 255px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 20px;
+}
+
+.card-heading {
+    font-size: 18px;
+    font-family: Roboto;
+}
+
+.card-para {
+    font-size: 13px;
+    width: 250px;
+}
+
+.icons {
+    margin-left: -10px;
+    margin-top: -18px;
+    margin-right: 5px;
+}
+
+.icon {
+
+    height: 25px;
+    margin-right: 6px;
+    margin-left: -11px;
+}
+
+.inner-card {
+    margin-top: 10px;
+}
+
+.but-112 {
+    color: #fff;
+    text-align: center;
+    background-color: #2563eb;
+    border-radius: 8px;
+    padding: 12px 30px;
+    font-family: Inter, sans-serif;
+    font-weight: 500;
+}
+
+
+.page-5 {
+    background-color: #0f172a;
+    height: 100vh;
+    background-size: cover;
+    width: 100vw;
+}
+
+.page-5-heading {
+    width: 574px;
+    color: #fff;
+    text-align: left;
+    letter-spacing: -.5px;
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-family: sofia-pro, sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    padding: 40px;
+}
+
+.page-5-para {
+    width: 481px;
+    color: #cbd5e1;
+    margin-top: -70px;
+    margin-bottom: 38px;
+    font-family: Inter, sans-serif;
+    font-size: 18px;
+    padding: 40px;
+
+}
+
+.page-5-but {
+    color: #fff;
+    text-align: center;
+    background-color: #2563eb;
+    border-radius: 8px;
+    padding: 12px;
+    font-family: Inter, sans-serif;
+    font-weight: 500;
+    margin-top: -100px;
+
+}
+
+.page-6 {
+    background-color: #000d1a;
+    height: 110vh;
+    width: 110vw;
+}
+
+.page-6-head {
+    width: 574px;
+    color: #fff;
+    text-align: left;
+    letter-spacing: -.5px;
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-family: sofia-pro, sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.page-6-para {
+    width: 530px;
+    color: #cbd5e1;
+    margin-top: 12px;
+    margin-bottom: 64px;
+    font-family: Inter, sans-serif;
+    font-size: 18px;
+}
+
+.page-6-h4 {
+    color: #f8fafc;
+    margin-bottom: 16px;
+    font-family: Inter, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+.page-6-para {
+    color: #f8fafc;
+    margin-left: 8px;
+    font-family: Inter, sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.tickk {
+    margin-top: -50px;
+}
+
+.tick {
+    margin-top: -110px;
+}
+
+.page-6-igg {
+    height: 600px;
+    width: 600px;
+}
+
+.page-71 {
+    background-color: white;
+}
+
+.page-7 {
+    background-color: #64748b;
+    background-size: cover;
+}
+
+.page-7-head {
+    text-align: center;
+    margin-bottom: 48px;
+    width: 961px;
+    color: #fff;
+    font-family: sofia-pro, sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.card-7 {
+    border-radius: 20px;
+    background-size: cover;
+    margin-top: -120px;
+}
+
+.card-8 {
+    background-color: #141f1f;
+    height: 450px;
+    width: 614px;
+    border-radius: 20px;
+    margin: 50px;
+    margin-top: 150px;
+}
+
+.page-8-head {
+    font-family: "CircularXX";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    color: white;
+    text-align: center;
+    margin-top: 32px;
+}
+
+.page-8-para {
+    font-family: CircularXX;
+    font-size: 19px;
+    color: white;
+    text-align: center;
+    margin-top: 32px;
+}
+
+.page-7-ig {
+    width: 120px;
+    text-align: center;
+    margin-left: 220px;
+    margin-top: 90px;
+}
+
+.padd-5 {
+    margin-left: 40px;
+}
+
+.ppt {
+    padding: 20px;
+}
+
+.bg-container {
+    background-color: white;
+    height: 100vh;
+}
+
+.last-page {
+    background-color: #0f172a;
+    height: 100vh;
+    background-size: cover;
+}
+
+.head-last {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: Roboto;
+    padding: 50px;
+}
+
+.black-page {
+    background-color: black;
+    background-size: cover;
+    border-radius: 20px;
+    height: 70vh;
+    width: 90vw;
+    margin: 40px;
+
+}
+
+.page-diff {
+    background-color: #141f1f;
+    height: 50vh;
+    width: 50vw;
+    border-radius: 40px;
+}
+
+.img-tool {
+    height: 70px;
+    width: 70px;
+    background-size: cover;
+
+}
+
+.head-last {
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.para-last {
+    color: white;
+    text-align: center;
+    margin-top: -40px;
+}
+
+.style-tool {
+    text-align: center;
+}
